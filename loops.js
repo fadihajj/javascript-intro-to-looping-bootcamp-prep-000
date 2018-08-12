@@ -30,6 +30,6 @@ do{
   incrementVariable():
   return array;
 }
-while (incrementVariable() && array.length>0)
+while (incrementVariable() && array.length>0);
 
 }
